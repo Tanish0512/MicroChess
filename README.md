@@ -1,5 +1,7 @@
 This Chess environment is based on https://github.com/patrik-ha/explainable-minichess
+
 Rules and Game: https://greenchess.net/rules.php?v=microchess
+
 More information: https://en.wikipedia.org/wiki/Microchess
 
 ## Microchess Agents 
