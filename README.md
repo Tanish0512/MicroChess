@@ -13,4 +13,6 @@ agents/
 extras/
 requirements.txt
 report.pdf
+autograder.py
+visualize.py
 ```
